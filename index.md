@@ -2,16 +2,6 @@
   <head>
     <meta charset="UTF-8">
     <link href="https://fonts.googleapis.com/css?family=Poppins&amp;display=swap" rel="stylesheet" />
-    <!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-141839667-4"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'UA-141839667-4');
-</script>
-<script type="text/javascript" src="https://www.trustactivity.com/cdn/truster.js?acc=$2y$10$zJoQaadVIlVC0HCWQnLFFuEqdvTFerWYVtVPeQKYGxF1erWcVv8/i"></script>
   </head>
 
 <style>
@@ -108,11 +98,11 @@ text {
 <body>
 <center><img src="logo.png" alt="Logo" /></center>
 
-<center><button class="join" onclick="window.location.href='https://www.mb102.com/lnk.asp?o=15748&c=918277&a=377858&k=9F37D900427AB982923AD44A6EE45080&l=16710'"> Join </button>
+<center><button class="join" onclick="window.location.href='https://www.mb103.com/lnk.asp?o=13481&c=918277&a=377858&k=70404A51448EC93923540476D646C7AD&l=14091'"> Join </button>
 
 <br/>
 
-<text>Everyday Mom Club offers monthly samples from large companies, who giveaway products as advertisements. All you have to do is sign up and wait for your samples to arrive. Offer is valid in continental United States might expire once limits are reached.</text>
+<text>Baby Samples UK offers free monthly samples from large companies, who giveaway products as advertisements. All you have to do is sign up and wait for your samples to arrive. Offer is only valid for citizens of the United Kingdom.</text>
 
 <br/>
 
